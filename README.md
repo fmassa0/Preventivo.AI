@@ -27,7 +27,7 @@ UI editoriale moderna, palette cream/terracotta, fully responsive.
 
 ### Online (più veloce)
 
-Vai su `https://<fmassa0>.github.io/preventivo-ai/`, apri **Impostazioni**, incolla la tua API key (Anthropic o OpenAI) e genera.
+Vai su `https://fmassa0.github.io/preventivo-ai/`, apri **Impostazioni**, incolla la tua API key (Anthropic o OpenAI) e genera.
 
 ### In locale
 
